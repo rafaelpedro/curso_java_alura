@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/curso_java_alura.iml" filepath="$PROJECT_DIR$/curso_java_alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rafabank/rafabank.iml" filepath="$PROJECT_DIR$/rafabank/rafabank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rafabank2/rafabank2.iml" filepath="$PROJECT_DIR$/rafabank2/rafabank2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica/sintaxe-basica.iml" filepath="$PROJECT_DIR$/sintaxe-basica/sintaxe-basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" />
+    </modules>
+  </component>
+</project>
